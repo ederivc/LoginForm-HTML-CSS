@@ -14,7 +14,7 @@ body {
     background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
 }
 
-.login__container {
+.login-container {
     height: 43.75em;
     width: 60em;
     margin: 6em auto;
@@ -136,7 +136,7 @@ body {
 }
 
 @media screen and (max-width: 1000px) {
-    .login__container {
+    .login-container {
         width: 70%;
         margin-top: 3rem;
     }
@@ -151,13 +151,13 @@ body {
 }
 
 @media screen and (max-width: 650px) {
-    .login__container {
+    .login-container {
         width: 90%;
     }
 }
 
 @media screen and (max-width: 500px) {
-    .login__container {
+    .login-container {
         height: 90%;
     }
 
